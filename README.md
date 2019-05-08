@@ -16,7 +16,7 @@ Features:
   
     - play different sound bytes on key press
     
-    - 'Howl' object with designated sound byte assigned to each key
+    - 'Howl' object with designated sound source assigned to each key
     
     - keys A-Z grouped inside of JavaScript Object - each key assigned a color and Howl sound object 
     
