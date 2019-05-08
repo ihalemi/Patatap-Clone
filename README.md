@@ -1,4 +1,4 @@
-# Patatap-Clone
+# Patatap-Clone - https://ihalemi.github.io/Patatap-Clone/
 
 This application allows you to press any key from A-Z - each keystroke generates a new circle shape and plays a unique sound based on the key pressed, based on https://patatap.com/.
 
