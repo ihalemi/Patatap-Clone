@@ -5,7 +5,7 @@ This application allows you to press any key from A-Z - each keystroke generates
 
 Features: 
   
-  PaperScript.js
+  Paper.js
   
     - used to create a circle shape at random coordinates on the screen on each unique key pressed
     
